@@ -14,7 +14,7 @@ export default siteConfig({
   author: 'metaillusion',
 
   // open graph metadata (optional)
-  description: 'My Blogs.',
+  description: 'MetaIllusion\'s Blog',
 
   // social usernames (optional)
   // twitter: '',
