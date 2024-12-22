@@ -9,7 +9,7 @@ export default siteConfig({
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'MetaIllusion's Blog',
+  name: 'MetaIllusion\'s Blog',
   domain: 'metaillusion.news',
   author: 'metaillusion',
 
